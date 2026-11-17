@@ -1,0 +1,11 @@
+{
+  "name": "สมุดเงินของฉัน · My Money Diary",
+  "short_name": "สมุดเงิน 🌷",
+  "description": "สมุดรายรับรายจ่ายรายเดือนสไตล์ชมพู",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#f9d8e6",
+  "icons": [{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]
+}
